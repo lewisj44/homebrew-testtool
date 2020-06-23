@@ -8,5 +8,5 @@ class Testtool < Formula
 
   def install
     bin.install "testtool"
-
+  end
 end
